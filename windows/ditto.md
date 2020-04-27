@@ -1,6 +1,6 @@
 # Ditto:首选的剪贴板增强软件
 
-http://xbeta.info/ditto.htm
+[介绍](http://xbeta.info/ditto.htm)
 
 ## 功能
 

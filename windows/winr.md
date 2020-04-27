@@ -1,6 +1,6 @@
 # <kbd>Win</kbd>+<kbd>R</kbd>最绿色最高效的快速启动方式
 
-http://xbeta.info/win-run.htm
+[介绍](http://xbeta.info/win-run.htm)
 
 ## 四大优势
 
