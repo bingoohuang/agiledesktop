@@ -4,6 +4,10 @@
 
 > 工欲善其事​, 必先利其器！
 
+## 通用
+
+1. 何以取真经，请[西游之](https://xiyou.id/r/?s=2348827) [more](#common/wall.md)
+
 ## Mac 版本
 
 TODO
