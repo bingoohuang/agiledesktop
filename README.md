@@ -10,7 +10,6 @@ TODO
 
 ## Windows 版本
 
-1. Everythinng 速度最快的文件名搜索工具，[more](#windows/everything.md)
-   - 快捷键设置在左手边 <kbd>Shift</kbd>+<kbd>Esc</kbd>
-1. <kbd>Win</kbd>+<kbd>R</kbd> 最绿色最高效的快速启动方式，[more](#windows/winr.md)
-1. Ditto 首选的剪贴板增强软件 [more](#windows/ditto.md)
+1. <kbd>Shift</kbd>+<kbd>Esc</kbd> Everythinng 速度最快的文件名搜索工具 [more](#windows/everything.md)
+2. <kbd>Win</kbd>+<kbd>R</kbd> 最绿色最高效的快速启动方式 [more](#windows/winr.md)
+3. <kbd>Win</kbd>+<kbd>`</kbd> Ditto 首选的剪贴板增强软件 [more](#windows/ditto.md)
