@@ -10,7 +10,7 @@
 
 ## Mac 版本
 
-TODO
+1. [在Finder的右键菜单中添加「Open in VSCode」](mac/finderOpenInVSCode.md)
 
 ## Windows 版本
 
